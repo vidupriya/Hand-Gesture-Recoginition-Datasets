@@ -1,2 +1,1 @@
-# Pitch-detection-
-Pitch detection of  musical instruments by comparing different algorithms
+HAND GESTURE RECOGNITION  DATASETS
